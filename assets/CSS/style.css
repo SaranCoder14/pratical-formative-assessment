@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=Island+Moments&family=Shadows+Into+Light&display=swap');
+header{
+
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+}
+header button{
+    background-color:rgb(182, 185, 191);
+    padding: 10px;
+    border-radius: 5px;
+    color:white;
+     border-color:rgb(182, 185, 191) ;
+    margin-right:40px;
+}
+body{
+    padding: 100px;
+}
+.img1 img{
+    width: 700px;
+    width:400px;
+    border-radius:20px ;
+    
+}
+.main1 p{
+    color:  hsl(221, 23%, 58%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    
+}
+.button{
+    display: flex;
+}
+
+.main1 button{
+    background-color:rgb(252, 102, 3);
+    padding: 15px;
+    border-radius: 5px;
+    color:white;
+    border-color:rgb(252, 102, 3) ;
+}
+.main2{
+    display: flex;
+    margin-top: 30px;
+    padding: 30px;
+}
+.main1 h1{
+    font-size: 50px;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: hsl(220, 50%, 17%);
+    
+}
+.img2 img{
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    color:rgb(252, 102, 3);
+    mix-blend-mode: multiply;
+}
+.img2{
+    background-color:rgb(252, 102, 3) ;
+}
+
+.img3 img{
+    width:300px;
+    border-radius: 20px;
+    height: 500px;
+    margin-left: 10px;
+    width:500px;
+}
+.main2 h2{
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 40px;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: hsl(220, 50%, 17%);
+}
+.main2 p{
+    padding: 40px;
+    color: hsl(221, 23%, 58%);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.footer{
+    display: flex;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: hsl(220, 50%, 17%);
+    margin-top: 160px;
+    
+}
+.foot1 h2{
+    
+    font-family: 'Barlow Condensed', sans-serif;
+    color: hsl(220, 50%, 17%);
+    
+    
+}
+.foot2 h2{
+     font-family: 'Barlow Condensed', sans-serif;
+    color: hsl(220, 50%, 17%);
+}
+.foot3 h2{
+    
+    font-family: 'Barlow Condensed', sans-serif;
+    color: hsl(220, 50%, 17%);
+}
+.foot4 h2{
+    
+    font-family: 'Barlow Condensed', sans-serif;
+    color: hsl(220, 50%, 17%);
+}
+
+.foot1{
+    padding: 10px;
+    width:750px;
+}
+.foot2{
+    padding: 10px;
+    width:750px;
+}
+.foot3{
+    padding: 10px;
+    width:750px;
+}
+.foot4{
+    padding: 10px;
+    width:750px;
+}
+.foot1 p{
+    color:  hsl(221, 23%, 58%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+.foot2 p{
+    color:  hsl(221, 23%, 58%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.foot3 p{
+    
+    color:  hsl(221, 23%, 58%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.foot4 p{
+    
+    color:  hsl(221, 23%, 58%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.foot1 img{
+    background-color:rgb(252, 102, 3);
+    padding:15px;
+    border-radius: 10px;
+}
+.foot2 img{
+    background-color:rgb(252, 102, 3);
+    padding:15px;
+    border-radius: 10px;
+}
+.foot3 img{
+    background-color:rgb(252, 102, 3);
+    padding:15px;
+    border-radius: 10px;
+}
+.foot4 img{
+    background-color:rgb(252, 102, 3);
+    padding:15px;
+    border-radius: 10px;
+}
